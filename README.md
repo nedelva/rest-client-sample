@@ -2,7 +2,7 @@
 
 Demonstrates the creation and testing of HTTP declarative clients.
 
-Blog Article: [Javalanche](https://javalanche.blogspot.com/p/micronaut-series-how-to-write-and-test.html)
+Blog Article: [Javalanche](https://javalanche.blogspot.com/2023/08/micronaut-series-how-to-write-and-test.html)
 
 ## Micronaut 4.0.3 Documentation
 
